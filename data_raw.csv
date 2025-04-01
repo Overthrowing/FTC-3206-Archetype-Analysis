@@ -1,0 +1,459 @@
+Team,Match,Auton Coral L1 Total,Auton Coral Level 1,Auton Coral L2 Total,Auton Coral Level 2,Auton Coral L3 Total,Auton Coral Level 3,Auton Coral L4 Total,Auton Coral Level 4,Auton Algae Removed Low,Auton Algae Removed High,Auton Algae Processed,Auton Algae Barged, Auton Move,Teleop Coral L1 Total,Teleop Coral Level 1,Teleop Coral L2 Total,Teleop Coral Level 2,Teleop Coral L3 Total,Teleop Coral Level 3,Teleop Coral L4 Total,Teleop Coral Level 4,Teleop Algae Removed Low,Teleop Algae Removed High,Teleop Algae Processed,Teleop Algae Barged,Endgame,Robot Break,Defense,Comments,Scouter Name
+7038,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,defense L,Kai
+6318,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,4,1,1,0,0,0,0,0,1,0,0,Dropped many corals,Gus
+3197,60,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,14,11,1,0,0,0,1,0,0,moves too quick so.etimes,Jocelyn
+8122,60,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,3,0,1,0,0,3,0,1,,Douglas
+4511,60,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,0,3,0,0,0,0,1,0,0,Elevator didn't go to l4,Gus
+3381,60,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0, it's grabbing mechnizim broke it makes a weird noise ,Wesley
+8422,60,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,2,5,0,3,0,0,,Kai
+3294,61,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,0,0,0,3,0,0,need ti.e to climb ,Jocelyn
+3100,61,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,2,0,7,1,0,0,had trouble lining up climber,Kai
+2143,61,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,7,5,0,0,0,0,1,0,0,,Grace
+4011,61,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,0,0,1,0,0,0,0,0,3,0,0,very bad at the beginning but still got a few points but aren't really reliable,Douglas
+5653,62,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,3,1,2,2,4,4,1,0,0,0,1,0,0,prone to having coral fly out if hit too hard,Jocelyn
+2181,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,jittering and mechanisms not working ,Jocelyn
+7619,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,2,0,0,1,0,0,,Kai
+4693,63,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,1,1,0,Coral stuck on them,Gus
+4607,63,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,3,0,0,,Grace
+2861,63,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4,3,0,1,1,0,3,0,0,can deal with algee in the way ,Wesley
+3291,64,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,had to hit estop,Jocelyn
+8836,64,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,a defense bot but is bad at it,Douglas
+1732,64,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,1,2,1,1,3,2,0,3,0,0,3,0,0,,Grace
+2526,64,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,,Gus
+1306,64,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3,2,2,1,0,0,3,0,0,struggled to grabcoral on floor ,Wesley
+6381,64,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,1,1,0,0,0,0,0,0,1,0,0,took a while to line up coral,Kai
+4674,65,1,1,0,0,0,0,0,0,0,0,0,0,1,8,8,0,0,0,0,0,0,0,0,0,0,3,0,0,Didn't use their elevator,Gus
+6217,65,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,3,2,0,0,0,0,1,0,0,,Grace
+10490,65,1,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,1,3,2,0,0,0,0,0,0,1,0,0,bad cen5er of gravity and rocks,Jocelyn
+4656,65,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,Kai
+5826,65,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,2,2,1,0,1,0,0,multiple things not great for grabbing coral ,Wesley
+2847,65,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,5,4,5,5,2,2,0,0,0,0,3,0,0,coral bot and very good,Douglas
+3293,66,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,2,0,0,can't hold algee ithink,Gus
+6574,66,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,4,3,0,1,0,0,3,0,0,,Carmen
+6709,66,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,another crown maker with the coral,Douglas
+7797,66,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,3,0,0,1,1,0,0,3,0,0,can't reach the fourth level or grab algee (can remove algee),Wesley
+3381,66,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,stayed on the opponents side the entire time and tried to stop them from getting coral,Amaar
+876,66,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,4,1,2,0,1,3,0,1,Based more on algae,Koushik
+3294,67,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,2,0,0,0,0,2,0,0,I forgot,Gus
+4741,67,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,6,5,0,0,0,0,1,0,0,Robot rocked back and forth once when it stopped too fast towards the end of the match.,Amaar
+7864,67,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,takes a way to long to score,Wesley
+6318,67,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,,Carmen
+3100,67,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,2,1,0,7,3,0,0,Heavily algae based,Koushik
+5903,67,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,5,0,0,0,0,3,0,0,good but I wish it wouldn't rush as much because it dropp3d quite a few,Douglas
+8516,68,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,moved fast and only tried to block coral from other teams.,Amaar
+5586,68,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lotta defense ,Gus
+2654,68,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,2,1,0,0,3,0,0,a little too slow,Douglas
+1714,68,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,3,2,0,0,0,0,1,0,0,got pushed away,Wesley
+8122,68,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,2,0,1,0,0,0,1,0,Lost a bumper. then completely stopped working,Koushik
+6147,68,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6,6,0,2,0,0,3,0,0,,Carmen
+2823,69,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,0,1,0,1,Can do l4 coral,Gus
+4693,69,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,5,1,0,0,,Carmen
+9532,69,1,0,0,0,0,0,0,0,0,0,0,0,1,9,7,0,0,0,0,0,0,0,0,0,0,1,0,0,can only place coral on level 1,Wesley
+4511,69,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,Can't accurately do anything other than defense/offense or algea removal,Koushik
+3277,69,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,0,6,2,2,1,1,0,0,0,0,0,focuses on their own side so they don't bump,Douglas
+2846,69,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5,3,0,0,0,0,1,0,0,,Amaar
+3206,70,1,1,0,0,0,0,0,0,0,0,0,0,1,5,5,0,0,0,0,0,0,0,0,6,0,1,0,0,amazing job and a quick job too,Wesley
+8422,70,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,3,7,0,3,0,0,only targeted algae on their own side,Amaar
+5653,70,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,7,0,8,2,1,0,0,1,0,0,HOLY SH*T THEYRE SO GOOD,Gus
+7619,70,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,2,1,0,0,0,0,1,0,0,Drivers aren't very accurate,Koushik
+2861,70,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,5,4,0,3,2,0,1,1,3,0,0,very good,Douglas
+3267,70,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,6,5,0,0,0,0,1,0,0,,Carmen
+4181,71,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,5,5,1,1,0,0,0,0,0,0,0,targeted level 2 at start then went to level 3 about halfway and then scored on level 4 once at the end ,Amaar
+4011,71,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,1,0,0,0,0,0,0,0,1,0,Stopped at the end,Gus
+9578,71,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,,Carmen
+7028,71,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,8,6,0,1,0,0,3,0,0,goes for the top level the most,Wesley
+7038,71,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Only played defense,Koushik
+6421,71,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,2,0,0,0,0,1,cleaned up the algea then played defense,Douglas
+7235,72,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,3,0,1,0,0,locked on to the. cage but didn't hang,Wesley
+2181,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,it died :(,Douglas
+2143,72,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,3,2,2,2,0,0,0,0,0,0,0,,Koushik
+3197,72,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,11,10,0,1,0,2,1,0,0,Fast at coral,Gus
+4607,72,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,3,3,1,1,3,3,1,1,1,0,1,0,0,,Carmen
+1619,72,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,2,2,6,4,6,5,0,0,0,0,3,0,0,performed well would occasionally overshoot coral,Amaar
+3381,73,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Tried to push algee into processor but failed,Gus
+6217,73,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,I think there elevator broke so they decided to play defense ,Wesley
+6574,73,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,4,0,0,0,0,0,1,0,Robot died during the endgame ,Koushik
+3100,73,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,7,3,0,0,scored good points by putting algae in the net but takes a bit to attach to the cage,Amaar
+2526,73,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,5,1,0,0,focused on algea only and almost got them all,Douglas
+2847,74,0,0,0,0,0,0,3,2,0,0,0,0,1,0,0,5,5,4,4,3,3,0,1,2,0,3,0,0,very fast and good at placing coral,Wesley
+1714,74,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,6,0,0,0,0,0,0,0,,Koushik
+876,74,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,2,1,1,3,3,1,1,2,0,2,0,0,Can do many things,Gus
+5586,74,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,no points so it went for defense,Douglas
+4741,74,0,0,0,0,0,0,0,0,0,0,0,0,1,6,3,2,2,0,0,2,2,0,0,0,0,0,0,0,misses 50 percent of the time when attempting to score on level 1,Amaar
+6709,75,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,8,7,0,0,0,0,1,0,0,only aimed for coral 4,Wesley
+3294,75,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,0,0,0,3,0,0,Slow at scoring,Koushik
+7864,75,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,had trouble moving around,Kai
+5826,75,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,places coral onto reef insteadof dropping it. However. it is slow and it fumbled a bit toward the end by taking too much to get the coral in position.,Amaar
+1306,76,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,9,9,1,0,0,0,2,0,0,,Koushik
+3293,76,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7,5,0,0,0,0,3,0,0,they have to manually angle the coral placement ,Kai
+7619,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,2,0,0,0,0,1,0,0,grabbing thing slides down slowly sometimes ,Wesley
+6318,76,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,shot out coral before getting close to the reef once and also attempted to get algae once from the reef but gave up.,Amaar
+6147,77,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,0,0,1,0,arm was 2prking for a little while after it broke and then it completely stopped,Jocelyn
+7797,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,didn't move at all,Amaar
+9578,77,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,2,1,0,1,0,0,good for removing algee ,Wesley
+2846,77,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2,0,0,0,0,0,1,0,0,they stopped halfway through the match and moved again for parking,Kai
+6381,77,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7,7,0,0,0,0,1,0,0,,Koushik
+6421,78,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,1,,Kai
+3197,78,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,4,4,4,4,0,0,0,2,0,0,0,,Koushik
+7038,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,they moved weird then stopped ,Wesley
+1732,78,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,0,7,4,6,4,1,1,0,0,3,0,0,fast with cycles and didn't budge with defensee,Jocelyn
+5653,78,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,5,4,0,1,0,0,0,0,0,auton took it to the feeder station after dropping coral on level 4,Amaar
+8422,79,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,3,1,1,completely broke. there are piec3s it scattered on the field,Jocelyn
+8516,79,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,4,2,2,0,0,1,0,1,0,1,0,0,,Kai
+3277,79,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,1,8,7,1,0,0,0,0,0,0,,Koushik
+2181,79,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,5,2,3,2,0,0,0,0,3,0,0,not super accurate when trying to score on level 3,Amaar
+4181,79,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4,4,3,1,1,1,0,0,1,0,0,works best on the 3rd level ,Wesley
+4607,80,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,4,4,3,3,0,1,0,0,0,0,0,LETS GO CIS,Kai
+1619,80,1,1,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,2,1,8,6,1,1,0,0,1,0,1,really fast cyc.e times,Jocelyn
+2823,80,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,6,5,0,0,0,0,0,1,0,Battery died,Koushik
+3267,80,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,5,4,1,0,0,0,1,0,0,aims for the 4 level ,Wesley
+5903,80,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coral didn't intake properly and would get stuck.,Amaar
+4674,81,1,1,0,0,0,0,0,0,0,0,0,0,1,10,9,0,0,0,0,0,0,0,0,0,0,3,0,0,super consis5ent but only scores level 1,Jocelyn
+4693,81,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,algae arm broke last second,Kai
+3291,81,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,7,6,0,0,0,0,1,0,0,,Koushik
+7028,81,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,10,10,0,1,0,0,3,0,0,It did most of the top row and quickly ,Wesley
+10490,81,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,1,0,0,0,0,0,used coral to remove algae from reef. moved slowly.,Amaar
+876,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,6,6,2,1,2,0,1,0,0,live laugh love,Jocelyn
+3206,1,1,1,0,0,0,0,0,0,0,0,0,0,1,5,5,2,0,0,0,1,0,0,0,4,0,1,0,0,fumbled Intake frequently. 3 coral intakes fumbled without a clear display of where they were planning on scoring,Craig
+3294,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,0,0,0,0,0,0,0,0,3,0,0,,Amaar
+3291,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,2,0,0,2,1,1,0,0,0,0,3 attempted processed algae. only 1 scored ,Craig
+7028,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12,10,0,0,0,0,3,0,0,,Craig
+7235,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,baddefense and gave us penalty points,Kai
+7038,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Potential robot malfunction. unclear,Craig
+1306,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,12,7,0,0,0,0,0,0,0,almost toppled over a lot,Jocelyn
+3277,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,1,1,1,2,2,0,0,0,0,0,,Craig
+6709,2,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,8,8,0,0,0,0,1,0,0,really shaky,Craig
+10490,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,4,2,0,0,0,0,0,0,1,0,0,two sided ArM one side coral one side algae,Kai
+3100,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,!!ヽ(ﾟдﾟヽ)(ﾉﾟдﾟ)ﾉ!!🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤲🤲,Jeyi
+9578,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,they have a long arm. almost tipped over,Craig
+6217,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,1,0,0,0,0,0,0,1,0,1,went to the other side quickly to play defense ,Wesley
+5653,3,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,9,6,0,0,0,0,1,0,0,a coral robot and almost tipped a few times,Douglas
+2823,3,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,9,6,0,0,0,0,1,0,0,feeder intake. puts coral vertically ,Craig
+3381,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,didn't move entire ,Wesley
+8836,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,didn't move until end and only does bottom layer of coral,Douglas
+8422,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,5,0,1,0,0,algae bot!,Kai
+6574,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,3,1,1,0,0,0,0,0,0,0,slow and sloppy,Douglas
+1732,4,0,0,0,0,0,0,3,2,0,0,0,0,1,0,0,1,1,1,1,10,8,0,0,0,0,3,0,0,quick grab ,Wesley
+6147,4,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6,4,7,6,0,0,0,0,3,0,0,fast efficient and accurate,Douglas
+2143,4,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3,2,5,5,0,0,0,0,1,0,0,they almost tipped over once. they took a while to line up coral placemnt,Kai
+7619,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,0,2,2,0,0,1,0,0,stood still for 10 seconds for some reason ,Wesley
+4656,5,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,2,2,0,0,0,1,0,0,3,0,0,they almost tipped over. drivers are very indecisive,Kai
+2846,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,stopped moving after it could get the coral out,Douglas
+2181,5,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,0,3,0,0,lost coral alot,Wesley
+3197,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,did not move,Kai
+6318,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3,2,0,0,0,0,0,0,0,0,0,coral could not get on the coral intake,Douglas
+5586,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,1,0,0,struggled to grab coral ,Wesley
+4511,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,1,0,0,fragile arm,Wesley
+2861,6,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3,3,1,1,2,0,1,0,0,slow and sloppy,Douglas
+5826,6,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,5,4,0,0,1,0,1,0,1,0,0,scores coral by skewering it on the reef,Kai
+1619,6,0,0,1,1,0,0,2,1,0,0,0,0,1,0,0,0,0,6,3,7,7,0,2,0,0,3,0,0,good atuo and quick ,Wesley
+8516,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,couldn't move at all,Douglas
+4741,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,2,3,2,0,0,0,0,0,0,0,a bit wobbly while fully extended,Kai
+4607,7,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,3,3,2,2,2,1,0,0,0,1,0,0,mostly does coral ,Wesley
+2847,7,0,0,0,0,0,0,3,2,0,0,0,0,1,0,0,1,0,4,3,4,3,0,0,0,0,3,0,0,fast efficient and uses time very wisely,Douglas
+7864,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,a coral got stuck in their intake. they then looked like they had trouble moving? they played counter defense.,Kai
+4674,7,1,1,0,0,0,0,0,0,0,0,0,0,1,12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,mostly coral one,Wesley
+4011,7,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,1,0,1,not good with coral or defense,Douglas
+7797,7,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,0,0,0,1,0,0,3,0,0,had a ton of trouble with the feeder station ,Kai
+1714,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,2,2,9,5,0,0,0,0,1,0,0,very fast coral intake and elevator,Kai
+9532,8,1,0,0,0,0,0,0,0,0,0,0,0,1,10,8,0,0,0,0,0,0,0,0,0,0,1,0,0,big build,Wesley
+3293,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,4,0,2,0,2,3,0,0,fast doesn't use the remaining time wisely and elevator mechanism was v3ry unstable,Douglas
+6421,8,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,3,2,0,0,1,1,0,0,0,0,0,very fast guy. Dr. pepper is a E tier soda,Kai
+3267,8,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,0,0,2,0,0,0,0,0,0,0,1,0,0,uses gear wheels to grab ,Wesley
+6381,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,very slow very sloppy and couldn't ev3n get the coral out (inexperienced drivers),Douglas
+8122,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,5,3,2,1,0,0,0,3,0,0,wobbly boy,Kai
+4693,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,has to grab on the wall sometimes kicks it out,Wesley
+2654,9,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,2,2,0,0,1,0,0,only got rid of algea but couldn't carry it themselves and had a very bad angle for l3vel 4 coral,Douglas
+4181,9,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,very bad aim and I'm blinded by the lights and so could the drivers,Douglas
+2526,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,1,2,0,0,0,they had to chase around the ground algae. grape is the best jolly rancher flavor,Kai
+5903,9,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7,5,0,0,0,0,1,0,0,if arm is up and it goes to fast it almost falls over ,Wesley
+6217,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,coral got stuck in the bot. they played defense for the rest of the game. winter is the best season fr fr,Kai
+1306,10,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,8,8,0,0,0,0,1,0,0,wobble if moves little ,Wesley
+7619,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,4,3,0,1,0,0,1,0,0,very fast but sloppy and unstable,Douglas
+2143,10,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,11,7,0,0,0,0,0,0,0,has to move slow cuz it topples lightly with elevator up,Jocelyn
+7038,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,robot was confused ,Wesley
+7235,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,very unexperienced drivers and not a good algea intake and depends on others to bring the algea down,Douglas
+6318,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,1,0,0,0,0,0,0,1,0,0,really unstable coral intake. small movements kick coral off,Douglas
+2823,11,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,doesn't shake much when playing defense when hit and when arm is up,Wesley
+8422,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,3,6,0,3,0,0,they didn't do a lot in auto and only scored algae.,Megan
+9578,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,fragile arm and it's a claw,Wesley
+6709,11,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,not very aggressive and jogging the wrong places allowing for the team to get less points and the other to win more,Douglas
+6574,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7,6,0,0,0,0,3,0,0,hard time picking up from the feeder.,Megan
+6147,12,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,6,5,3,3,0,0,0,0,0,0,0,0,0,,Koushik
+3100,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,2,0,3,0,0,moved around a lot in the end,Megan
+7028,12,0,0,0,0,0,0,3,3,0,0,0,0,1,3,2,0,0,0,0,7,6,0,1,0,0,3,0,0,fast consistanc3 but the coral intake wasn't helpful,Douglas
+4511,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,1,0,0,0,0,0,0,0,1,0,0,,Koushik
+8836,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,it didn't move at all.,Megan
+8516,12,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,6,3,0,0,2,0,0,0,0,0,0,not very accurate and almost tipped when trying to get rid of the algea,Douglas
+3277,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,2,1,1,2,2,2,0,0,0,0,,Koushik
+5826,13,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,4,4,0,0,0,0,0,0,0,accurate but it takes more skill to actually put the coral on and elevator mechanism was very unstabe,Douglas
+4607,13,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,3,3,3,3,3,3,0,0,0,0,1,0,0,they got confused what level coral to go for,Megan
+5653,13,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,6,0,0,0,0,1,0,0,fast and accurate ,Koushik
+3291,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,1,0,0,1,0,1,went and blocked the opponent with brute force,Megan
+5586,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,0,0,0,0,very fast on taking the algea off the reef and procc3ssing it,Douglas
+3294,14,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,4,4,0,0,0,0,0,0,0,coral reaching mechanism is slow,Koushik
+2847,14,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,0,3,3,6,6,1,0,1,0,1,0,0,scored most of the coral on the top level,Megan
+2846,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,good defense but mid aggression ,Douglas
+3381,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,it stopped moving after 2 seconds into the match and stayed until the end,Douglas
+1732,14,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,not accurate,Koushik
+6421,14,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,3,3,1,1,1,0,0,0,1,0,0,went to both feeder stations,Megan
+2861,15,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,1,1,5,5,0,0,2,0,1,1,0,climber broke,Koushik
+3293,15,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,3,1,1,1,1,2,2,0,1,0,0,very efficiency and works good with algea and coral,Douglas
+1619,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,2,7,5,0,1,0,0,3,0,0,mostly used the feeder station ,Megan
+4011,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,Not accurate and is equipped with a primitive coral mechanism ,Koushik
+2654,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,4,0,0,0,0,3,0,0,had trouble with the feeder station ,Megan
+2526,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,3,1,0,0,0,not the most efficient and algea intake failed a few times,Douglas
+2181,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,their auton makes them go backwards ,Koushik
+4674,16,0,0,0,0,0,0,0,0,0,0,0,0,1,10,10,0,0,0,0,0,0,0,0,0,0,1,0,0,only went for level one,Megan
+876,16,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,3,3,1,1,3,0,3,0,0,has a good coral mechanism ,Koushik
+8122,16,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4,4,4,3,1,0,0,0,1,0,0,feed very well from the feeder station,Megan
+4741,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,3,1,1,0,0,0,0,0,0,0,0,0,goes a little to a direction sometimes and eyes,Wesley
+4656,17,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,5,2,0,0,2,1,0,0,3,0,0,very bad at aligning ,Jacob
+3206,17,1,1,0,0,0,0,0,0,0,0,0,0,1,4,4,0,0,0,0,0,0,0,0,0,0,1,0,0,Algae got stuck in bot,Spencer
+6381,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Spencer
+4693,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,,Sam
+4181,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,4,3,0,0,0,0,0,0,0,coral was very slow(stats might be wrong. don't kill me),Koushik
+3197,18,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,12,10,0,2,0,0,1,0,0,,Spencer
+9532,18,0,0,0,0,0,0,0,0,0,0,0,0,1,9,7,0,0,0,0,0,0,0,0,0,0,1,0,0,,Spencer
+10490,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,,Sam
+7797,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,1,0,0,3,0,0,,Koushik
+5903,18,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,0,0,0,3,0,0,,Sam
+1714,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,3,6,6,0,0,0,0,0,0,0,,Sam
+4607,19,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,2,2,5,4,0,0,0,0,0,0,1,0,0,,Sam
+6217,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0,0,1,1,0,0,0,0,1,0,0,,Sam
+7028,19,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,9,7,0,0,0,0,1,0,0,,Koushik
+1306,19,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,4,4,0,0,4,4,0,0,0,0,1,0,0,,Spencer
+8422,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2,0,3,0,1,,Sam
+6147,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,robot got a piece of coral stuck in chassis,Sam
+3291,20,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,,Sam
+5826,20,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,,Sam
+3100,20,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,3,0,7,3,0,0,,Spencer
+7619,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,3,1,0,0,0,0,0,0,0,,Sam
+6421,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,4,0,0,1,0,0,0,0,0,0,,Sam
+6318,20,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,3,3,0,0,1,1,2,0,0,0,0,,Sam
+2823,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,0,0,0,1,0,0,,Sam
+2526,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,0,1,0,1,little algae thief,Kai
+4511,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,4,0,0,0,0,0,0,0,0,1,0,0,rectangular chasse and narrow coral intake made it difficul,Jocelyn
+4011,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,1,0,0,has to intake coral forward but turns on its side to outske. confuses drivers,Jocelyn
+2847,21,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,1,0,2,2,8,8,0,0,0,0,3,0,0,very fast cycle time. very fast feeder intake. went for levels 2 and 3 after level 4 was full,Kai
+7235,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Sam
+8516,22,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,4,0,0,0,0,0,0,0,0,1,0,0,,Sam
+6709,22,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,14,7,0,0,0,0,0,0,0,very wobbly bot. doesn't drop coral usually but misses putting in constantly ,Jocelyn
+5586,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,0,0,1,0,was clearing algae very efficiently. then stopped moving halfway through,Kai
+3267,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,3,3,0,0,0,0,0,0,3,0,0,floor pickup!!!!!!,Kai
+1732,22,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,9,7,0,0,0,0,3,0,0,,Sam
+9578,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,3,0,1,0,0,moves really really slowly ,Jocelyn
+4674,23,0,0,0,0,0,0,0,0,0,0,0,0,1,14,13,0,0,0,0,0,0,0,0,0,0,2,0,0,,Sam
+3206,23,1,1,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,1,1,0,0,5,0,1,0,0,coral intake prone to letting go. also one of those algae was pushed in for penalty I think [so it could be 4 and not 5],Jocelyn
+2846,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,played good defense. blocked a feeder station,Kai
+7038,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ita coral intake literally popped off at th web end,Jocelyn
+8836,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,bro did not move. probably distraced by some Dr. pepper offscreen,Kai
+3293,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6,0,0,0,0,3,0,0,,Sam
+876,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,8,1,0,0,0,3,0,0,moves really fast and is hard to keep track of. auton gkt thrown off cuz someone hit it,Jocelyn
+2654,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,so cool,Kai
+6381,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,1,0,1,outtake coral prematurely ,Jocelyn
+3197,24,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,3,4,4,4,3,0,0,0,0,0,0,0,,Sam
+4693,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,,Sam
+10490,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,4,0,0,1,1,0,0,1,0,0,they had trouble with the feeder and lining up the reef. sprite is so fire fr fr,Kai
+4181,25,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,,Sam
+1714,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,8,4,0,0,0,0,1,0,0,they have a fast cycle but they need to put more time into lining up the coral (tasty),Kai
+2143,25,0,0,0,0,0,0,1,1,0,0,0,0,1,3,1,0,0,2,2,2,2,0,0,0,0,0,0,0,strays from coral to load it's intake further after its already been intaked??.,Jocelyn
+3381,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,,Sam
+4741,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,4,0,0,0,0,0,0,1,0,0,inaccurate,Kai
+2861,25,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,6,6,1,2,2,0,1,0,0,couldn't see climb at end but assuming only park. very efficient otherwise and maximize utility ,Jocelyn
+9532,26,0,0,0,0,0,0,0,0,0,0,0,0,1,13,10,0,0,0,0,0,0,0,0,0,0,1,0,0,rushed ar the end. but otherwise sound robott,Jocelyn
+2181,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,4,0,0,0,0,1,0,0,,Sam
+5903,26,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,4,4,0,0,0,0,1,0,0,so cool,Kai
+7864,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,2,0,0,0,0,0,had issues getting high alfae off. almost took off high coal,Jocelyn
+6574,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,3,0,1,loosely defended the feeders,Kai
+5653,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,8,8,0,0,0,1,0,0,0,,Sam
+1619,27,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,3,3,9,9,1,1,0,0,0,0,0,very demere. a bit wobbly but other than that very cool,Kai
+4656,27,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,2,2,3,2,0,0,1,1,0,0,3,0,0,"constantly moving, making effective time",Jocelyn
+7797,27,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,3,0,0,,Sam
+3294,27,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,1,1,0,0,0,0,3,0,0,has narrow inta.e which makes it hard to coral input. dropped many ,Jocelyn
+3277,27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,9,6,0,0,0,0,0,0,0,scored coral instead of parking,Kai
+8122,27,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,3,3,0,0,0,0,0,0,3,0,0,failed lvl 4. succeeded lvl 1,Sam
+2526,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,4,4,1,0,0,players are extremely aware. they noticed the human player wasn't paying attention and starting processing algae knowing they wouldn't shoot,Jocelyn
+7028,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,3,9,4,0,0,0,0,3,0,0,very cool. they need to take more time lining up,Kai
+1732,28,0,0,0,0,0,0,3,1,0,0,0,0,1,1,1,2,2,1,1,4,3,0,0,0,0,0,0,0,,Sam
+4011,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,did not show up,Sam
+6318,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,3,3,0,0,1,2,2,0,1,0,0,I don't think that they can do level 4,Kai
+3267,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,2,3,3,1,0,0,0,1,0,0,slow at first but picked up later,Jocelyn
+2846,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,Jacob
+6709,29,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,8,5,0,0,0,0,1,0,0,coral inta.e is literally I'm electrical so it can get stuck but usually doesnt... tbh pretty fire,Jocelyn
+4607,29,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,1,1,5,3,0,0,0,0,1,0,0,Got defended and was slow at lining up,Kai
+4511,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,1,0,0,very bad at aligning and placing,Jacob
+3206,29,1,1,0,0,0,0,0,0,0,0,0,0,1,4,4,0,0,0,0,0,0,0,0,3,0,1,0,0,algae intake doesn't always fully intake,Sam
+6217,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,,Jocelyn
+10490,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,4,0,0,0,0,0,0,1,0,0,hard time aligning and hard time intaking,Jacob
+8422,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,1,1,7,0,1,0,0,,Jocelyn
+2847,30,0,0,0,0,0,0,3,1,0,0,0,0,1,0,0,0,0,2,1,9,9,0,0,0,0,3,0,0,I'm pretty sure both l3 corals fell off over time but I swear he got them on there,Jocelyn
+5586,30,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,E stopped,Kai
+3100,30,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2,3,0,8,3,0,0,,Jacob
+6381,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,almost tipped over when their elevator was full extended and they moved,Jocelyn
+3197,31,1,1,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,7,6,2,2,1,0,1,0,0,very fast but inexperienced drivers ,Kai
+3293,31,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,4,0,1,0,0,3,0,0,it might be wrong low-key. don't kill me,Spencer
+4181,31,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,might be broken and caused it to play defensive. very poorly. rotated a lot and nearly parked super buns,Jocelyn
+6147,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,didn't. over whole match,Jacob
+2823,31,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,it stopped moving mid match,Spencer
+5826,31,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,3,1,1,1,0,1,0,0,dropped coral. I mediately when auton started lmao ,Jocelyn
+9532,32,1,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,flung coral out of intake because half was broken,Jacob
+3291,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,3,2,0,1,0,0,couldn't always get algae in processor and immediately gave up when they let it go no matter whay,Jocelyn
+7038,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,coral got stuck in biot. couldn't do anything ,Spencer
+3381,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,intake broken and got a bunch of fouls,Jacob
+8516,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,2,2,0,0,0,1,0,0,1,0,0,,Spencer
+2181,32,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,7,5,0,0,0,0,3,0,0,there was nothing interesting. they were genuinely just mid; nothing bad but nothing good either,Jocelyn
+7619,33,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,,Spencer
+5653,33,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,6,1,2,0,0,1,0,0,multipurpose bot but failed to barge twice and then just gsvr up on barging I think,Jocelyn
+7797,33,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,3,0,0,0,0,0,0,3,0,0,looks like they cant score L4,Jacob
+4741,33,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,6,3,0,0,0,0,1,0,0,,Jacob
+4656,33,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,4,4,0,0,0,3,0,0,3,0,0,coral intake/outake is super thin and like... probably drops a lot,Jocelyn
+2654,33,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,2,2,0,0,0,0,3,0,0,had a tough time getting coral on,Spencer
+1306,34,0,0,0,0,0,0,1,1,0,0,0,0,1,6,6,1,0,0,0,0,0,0,0,0,0,0,1,0,has a floor intake and doesn't bother with gently putting down l1 coral at first lol they'd just throw ts,Jocelyn
+876,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,5,4,2,1,0,0,1,0,0,missed a lot of coral,Spencer
+1619,34,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,4,3,5,5,6,5,0,0,0,0,3,0,0,these guys cycle times are so fast for like L4 asks the other lvls too. this team is cracked I'm pretty sure they got 1st or 2nd place in Northern lights..,Jacob
+7864,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,just stayed by the processor and didn't do anything,Spencer
+9578,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,needed like 30 seconds to try as climb and still messed it up lol also it isn't barging very well,Jocelyn
+6421,34,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,5,5,2,0,0,0,0,1,0,0,1,0,0,they are pretty bad. they missed every L4. they are not good at that.  they are pretty good at L2 cycles,Jacob
+6574,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,played defense mostly ,Spencer
+4693,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,coral intake broke so used algae mech entire game. (but since the robot didn't entirely break I didn't say it did),Jocelyn
+4674,35,1,1,0,0,0,0,0,0,0,0,0,0,1,12,11,0,0,0,0,0,0,1,0,0,0,3,0,0,they were a L1 bot for sure really quick cycle times there and back like 5sec or dmth I don't know exactly. also climber takes a long time to line up and climb,Jacob
+3294,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,1,0,0,3,0,0,got defended heavily,Spencer
+1714,35,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,7,4,0,0,0,0,0,0,0,they got defended really hard,Jacob
+7235,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,got caught on dages with ira body and also couldn't shoge algae into processor,Jocelyn
+5903,36,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,spun. almost flipped. then afk,Spencer
+8122,36,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9,5,1,1,0,0,3,0,0,kept accidentally knocking off algae during coral. otherwise good cycle times,Jocelyn
+8836,36,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,they did defense the whole time,Jacob
+3277,36,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,1,3,1,0,0,0,0,1,0,0,coral inta.3 would go right through the robot. also had defense play against it,Jocelyn
+2861,36,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,3,3,0,1,0,0,3,0,0,L4 is at a weird angle ,Spencer
+2143,36,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,3,2,0,0,0,0,0,0,0,they got defended About half the time. something was wrong with their am,Jacob
+3197,37,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,1,1,5,5,7,6,0,0,0,0,0,0,0,got high score. fast cycle times,Spencer
+2847,37,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,4,3,4,4,5,4,0,0,0,0,3,0,0,great cycle times and efficiency. no hesitating from weapons or driver tbh,Jocelyn
+3100,37,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2,1,0,8,3,0,1,once they finished All the algea on their side they did defense..,Jacob
+3267,37,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,they stopped moving,Jacob
+7028,37,0,0,0,0,0,0,3,2,0,0,0,0,1,6,4,0,0,0,0,5,4,0,0,0,0,3,0,0,quick cycles. good auton. and it's intake mechanism. is really interesting,Jocelyn
+3293,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,5,0,0,1,1,0,1,0,0,0,I definitely missed things.  slow cycle times,Spencer
+4011,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,only played defense ,Ken
+3206,38,1,1,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,1,0,1,0,0,we got defensed hard,Kai
+10490,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,2,3,0,0,0,1,0,Dell over and then had the estop hit,Jocelyn
+6217,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,pushed our team into cages for penalty points. also really good at defense,Jocelyn
+8516,38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,1,2,2,0,0,1,0,0,0,1,0,0,they do not have a horizontal outtake,Kai
+6318,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9,3,0,0,0,1,0,0,0,0,0,only scored on level three and kept dropping the coral ,Ken
+1732,39,0,0,0,0,0,0,3,1,0,0,0,0,1,0,0,0,0,0,0,12,7,0,1,0,0,3,0,0,efficient robot but if hit it's coral flies out,Jocelyn
+4181,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,attempted to defend the feeders. spent to much time switching between the feeders,Kai
+2181,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,6,4,0,0,0,0,1,0,1,had to push the coral up to get it on the fourth level,Ken
+5826,39,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,1,0,broke at thr end and froze when should've parked. April tag issues but cool design for HP,Jocelyn
+4511,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,0,0,0,0,0,0,0,0,1,0,0,has a arm instead of a elevator ,Ken
+7797,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,4,0,0,1,0,0,0,1,0,0,small guy. focused on level 3. failed to climb,Kai
+1306,40,0,0,0,0,0,0,1,1,0,0,0,0,1,2,0,0,0,0,0,7,7,0,0,0,0,0,1,0,they stopped moving! they were doing so good!,Kai
+3291,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,stopped for majority of the game and then could only crawl to move and elevator was stuck up,Jocelyn
+2654,40,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,1,1,1,0,2,0,1,0,0,started with algae and ended with coral,Ken
+8422,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,5,0,3,0,0,this boy loved those balls,Kai
+2846,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,rotated bit didn't move in auton. then coral go t stuck and kr had to play defense,Jocelyn
+4741,40,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,moved very slowly at the end,Ken
+6421,41,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,7,0,0,0,0,2,0,0,0,1,0,0,nothing special about it honestly. balanc3d elevator and it's coral outage does a 180 tk deposit or sor.thing,Jocelyn
+4656,41,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,4,4,1,1,0,1,0,0,3,0,0,those snap boards in STEM class were so fire fr fr,Kai
+876,41,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,8,8,0,0,0,0,3,0,0,didn't miss any coral,Ken
+6574,41,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,8,6,0,0,0,0,1,0,0,climb takes too long to lower arm. needs more time,Jocelyn
+2823,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,started acting weird toward the end,Kai
+4607,41,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,2,2,3,3,4,4,0,2,0,0,1,0,0,almost got deep but couldn't pull up,Ken
+8122,42,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,just parked in front of the coral feed3r tbh,Jocelyn
+6381,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,1,0,0,0,1,0,0,what a wobbly boy,Kai
+6709,42,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,7,7,0,0,0,0,1,0,0,took a long time to get on the fourth level,Ken
+5903,42,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,kept dropping coral from feeder,Jocelyn
+7235,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,only used algae from the ground ,Ken
+5653,42,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,6,5,0,0,0,0,1,0,0,they were good?,Kai
+3294,43,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,1,0,0,3,0,0,decided to try and start climbing with 40msevonfs left,Jocelyn
+8836,43,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,pretty good defense despite the small size. often headbutted the robots,Kai
+7038,43,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,was unable to pick up anything and just drove around,Douglas
+2861,43,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,3,2,1,2,1,0,3,0,0,coral fell from one level and went to level one,Ken
+6147,43,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,0,6,5,3,3,0,0,0,0,3,0,0,really good auton movement. also tried to put coral on algae so uhhh yeah idk,Jocelyn
+4693,43,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,they're coral intake started to swing halfway through the match. stole algae from the other side,Kai
+1714,44,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,3,3,2,2,7,5,0,0,0,0,0,0,0,a coral got stuck in it for 20sec,Jocelyn
+7864,44,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,3,2,0,0,0,0,1,0,0,didn't really fumble. coral intake was in electrical which is cool I guess,Jocelyn
+3277,44,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,2,2,0,0,1,1,0,0,1,0,0,went for multiple levels,Ken
+2526,44,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,2,5,1,0,0,isn't the most efficient and dropped half the balls,Douglas
+9578,44,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,3,0,1,0,0,had a hard time moving and getting the algae to the process,Kai
+2143,44,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,1,intakebroke then they got tipped on one wheel becoming immobile ,Kai
+7619,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,3,0,0,1,0,0,kept dropping coral for so.e reawon. also apparently didn't know how to proc3ss algae ,Jocelyn
+4674,45,1,1,0,0,0,0,0,0,0,0,0,0,1,14,11,0,0,0,0,0,0,0,0,0,0,3,0,0,they are L1 bot,Morgan
+5586,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Carmen
+9532,45,1,0,0,0,0,0,0,0,0,0,0,0,1,11,8,0,0,0,0,0,0,0,0,0,0,1,0,0,tend to srop coral when ru shed,Jocelyn
+1619,45,0,0,0,0,0,0,3,0,0,0,0,0,1,1,1,0,0,0,0,10,7,0,1,0,0,3,0,0,it was very fast but not very consistent,Carmen
+3381,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,1,0,1,0,0,didn't try to score coral. mostly removed algea. honestly pretty ass,Morgan
+3267,46,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,5,4,0,0,0,0,1,0,0,has to climb earlier than signaled but also very accurate,Jocelyn
+6217,46,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,they did defense the whole time.,Morgan
+7797,46,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,0,0,1,1,0,0,1,0,0,not very efficient ,Carmen
+4181,46,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,3,1,1,0,0,0,0,0,0,indecisive on how to park. also hard to see behind algae lmao fml icl ong f4,Jocelyn
+3291,46,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,2,2,4,0,1,0,0,they have pretty quick cycle times for algea. decent on coral too. ,Morgan
+1306,46,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,7,7,0,0,0,0,1,0,0,ground intake could circumvent enemy team defense,Carmen
+1732,47,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,0,0,1,1,7,5,0,2,0,0,1,0,0,flung itself in auton. favors a specific part of reef and struggl3s when thag coral is filled already,Jocelyn
+2181,47,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,6,3,0,0,0,0,3,0,0,they got defended pretty hard,Morgan
+3206,47,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,1,0,0,0,0,0,3,0,1,0,0,,Carmen
+6421,47,0,0,1,0,0,0,0,0,0,0,0,0,1,3,2,1,0,0,0,0,0,1,0,0,0,1,0,1,pretty hard to tell what level they were trying to go for (looked like they were aiming for l2 but consistently hit l1 so),Jocelyn
+2654,47,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,0,0,2,0,1,0,0,thru have a ground algea pick up,Morgan
+10490,47,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,2,2,0,0,0,4,1,0,0,,Carmen
+8516,48,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,immediately yo5 coral stuck in electrical. and then layer completrly fell over,Jocelyn
+4656,48,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,3,0,0,0,1,0,0,3,0,0,got defended pretty hard. ,Morgan
+5903,48,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,3,0,0,coral stuck within bot near end. defense was effective against this bot,Carmen
+7235,48,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,"got bashed by robot + forgot how to algae intake. bumper kept hitting algae away, impossible to intake",Jocelyn
+2846,48,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,,Carmen
+3293,48,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7,6,0,0,0,0,0,0,0,they take about 15-20 sec to climb. cycle time for coral is about 14 sec give or take. ,Morgan
+6574,49,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,9,7,0,0,0,0,1,0,0,nothing special. very accurate and fast with time but that's really it. average. mid,Jocelyn
+7038,49,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Carmen
+4607,49,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,3,3,4,4,0,0,0,0,3,0,0,for 1/3 of match coral was stuck in bot. cycle time for L4 approx. 6-7sec,Morgan
+4741,49,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7,5,0,0,0,0,1,0,0,parked 43wlly late and coral almost shot out of the intake lol,Jocelyn
+6381,49,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,1,2,0,0,0,0,0,attempted 2 barges,Carmen
+8122,49,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,2,1,0,0,0,0,0,3,0,0,their auton messed up had to astop,Morgan
+6709,50,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,8,7,0,0,0,0,1,0,0,had problem with intake and arm mechanisms.,Morgan
+8836,50,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,ineffective at defense against enemy team,Carmen
+3197,50,0,0,0,0,0,0,2,1,0,0,0,0,1,3,1,2,2,2,2,3,2,2,1,0,0,0,0,0,uncooperative with coral feeder and flung coral around every now and then,Jocelyn
+3277,50,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0, coral wouldn't intake so wanted to do defense. had to switch with team but caught on algae before they could try ,Jocelyn
+1714,50,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0,3,3,2,2,0,0,0,0,0,0,0,able to avoid being defended against by 8836,Carmen
+4011,50,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,they have deep climb but it didn't work. either they suck or had problems with arm and intake. ,Morgan
+6318,52,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,5,0,0,1,0,0,0,1,0,0,shifting left to right throws off balbc3. knocking off coral from inske,Jocelyn
+6147,52,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,2,4,3,4,4,0,0,0,0,3,0,0,,Carmen
+1619,52,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,3,2,1,1,6,4,1,2,0,0,3,0,0,they were actually cracked. bit problems with intake but really good,Morgan
+4693,52,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,had a hard time gettint algae into processor. rando.lying hit estop at the end,Jocelyn
+2847,52,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,9,9,0,1,0,0,3,0,0,they had coral stuck in robot for a bit.  issues with auton. only got 1 out of 2 coral,Morgan
+3381,52,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,went to opposite side. rsl went out around 50s,Arjun
+3100,53,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,randomly started defense then suddenly stopped after seconds of it [can't see if estop] never moved again after ,Jocelyn
+4511,53,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,0,0,0,0,0,0,0,1,0,0,,Arjun
+5653,53,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,11,11,0,0,0,0,0,0,0,messed up auton. besides that they have really fast cycle times. ,Morgan
+9578,53,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,weird arm mechanism that had a hard time grabbing and proc3ssing alga3 despite not being able to do anything 3lse,Jocelyn
+4674,53,1,1,0,0,0,0,0,0,0,0,0,0,1,11,9,0,0,0,0,0,0,0,0,0,0,3,0,0,very fast cycle times for L1. like 6 seconds,Morgan
+3294,53,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,2,0,0,0,0,1,0,0,attempted a deep climb. couldn't do it,Arjun
+2861,54,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,6,4,0,0,0,0,3,0,0,kept getting bumped causing it to drp it's coral. otherwise wobbly outtake,Jocelyn
+7619,54,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,3,0,0,1,0,0,got defended really hard.issues with intake fell out a ton,Morgan
+2823,54,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,2,1,2,2,0,0,0,0,1,0,0,,Arjun
+7028,54,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,0,2,2,10,6,1,1,0,0,3,0,0,favors a specific side of coral and isn't as consistent if they can't see the branches [buns apriltagsp,Jocelyn
+7864,54,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,robot stopped for most of match. if not it was wandering around maybe they just suck,Morgan
+5586,54,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,played defense entire game,Arjun
+6217,55,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,1,1,0,0,0,0,0,1,0,1,elevator would wobble whem it's up. shakes the entire robot,Jocelyn
+6381,55,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,1,2,0,0,1,0,0,attempted barge. couldn't ,Arjun
+5903,55,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,7,0,0,0,0,3,0,0,their auton messed up,Morgan
+7797,55,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,0,0,1,1,0,0,3,0,0,took extra time for climbing. also elevator only reaches to l3 and intake is s.all so coral doesn't always make it in,Jocelyn
+8516,55,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,5,0,0,0,1,0,0,0,0,0,,Morgan
+6421,55,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,5,2,0,0,0,0,0,0,1,0,0,,Arjun
+3293,56,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,5,0,0,0,0,3,0,0,swayed some other cages but otherwise cool coral intake prevents it from being caught in electrical ,Jocelyn
+4656,56,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,2,2,0,0,0,1,0,0,0,0,0,mechanism was slow. but drivers were accurate,Arjun
+6709,56,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,1,0,0,4,3,1,0,0,0,0,0,0,they were decent,Morgan
+1732,56,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,6,2,2,2,1,1,1,3,4,0,1,0,0,put algae in other proc3ssor for some reason. bad at l2 but good at cycle time,Jocelyn
+3291,56,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,didn't move the whole time,Morgan
+4741,56,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,2,2,1,1,0,0,0,0,1,0,0,,Arjun
+3267,57,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,2,4,4,1,1,0,0,1,0,0,have a floor pickup!!,Jocelyn
+5826,57,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,I take kinda inefficient. cycle times were soooooo long. they kinda sucked,Morgan
+10490,57,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,flat shape of robot allowed algae to stay inside bot,Arjun
+8836,57,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,randomly started spinning in teleop. then moved all cages and then played def,Jocelyn
+6574,57,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3,2,0,0,0,0,1,0,0,,Arjun
+7235,57,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,kinda slow and very clunky. they took like 40 seconds to climb and still failed,Morgan
+6147,58,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,2,1,3,3,7,7,0,0,0,0,3,0,0,really good cycles. only thin GG is that they're tedious about making sure coral feeder is cl3an,Jocelyn
+2526,58,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2,3,0,0,0,they were algea bot. not as good as lightning turtle though. ,Morgan
+9532,58,0,0,0,0,0,0,0,0,0,0,0,0,1,10,7,0,0,0,0,0,0,0,0,0,0,1,0,0,,Arjun
+3206,58,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,3,0,1,0,0,we sold,Morgan
+2847,58,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,3,3,3,2,2,1,0,0,0,0,1,0,0,,Arjun
+1306,58,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,7,6,0,0,0,0,1,0,0,was efficient in moving but took to long to extake ,Jacob
+3277,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,bad defense bot. OK coral bot,Arjun
+2654,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,5,4,0,0,0,0,1,0,0,they also cam do algea.,Morgan
+876,59,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,1,0,0,,Sam
+4674,59,1,0,0,0,0,0,0,0,0,0,0,0,1,10,8,0,0,0,0,0,0,0,0,0,0,3,0,0,,Arjun
